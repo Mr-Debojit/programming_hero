@@ -134,13 +134,14 @@ h1,h2,h3,h4,h5,h6{
     border-radius: 1rem;
     border-style: none;
 }
+/* footer section */
 .footer{
     white-space: pre-line;
     color:white;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 60vh;
+    height: 85vh;
     width: 100vw;
     background-color: black;
 }
@@ -149,7 +150,7 @@ h1,h2,h3,h4,h5,h6{
     padding-bottom:9rem;
 }
 .footer_1{
-    margin: 3rem;
+    margin: 3rem 3rem 0rem 3rem;
 }
 .footer_btn{
     margin-top:3rem ;
@@ -158,4 +159,13 @@ h1,h2,h3,h4,h5,h6{
     border-style: none;
     border-radius: 1rem;
     font-size: 1.5rem;
+}
+.link_icon{
+    display: flex;
+    margin: 1rem 0;
+    padding: 0;
+}
+.footer_item_fot_icon{
+    margin: 1rem 0;
+    padding: 1rem;
 }
