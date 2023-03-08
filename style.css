@@ -166,6 +166,7 @@ h1,h2,h3,h4,h5,h6{
     padding: 0;
 }
 .footer_item_fot_icon{
+    display: inline-block;
     margin: 1rem 0;
     padding: 1rem;
 }
